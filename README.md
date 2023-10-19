@@ -1,16 +1,5 @@
 # news
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project UTS Matakuliah Pemograman Mobile
+#desain UI
+https://www.figma.com/file/nJbcNpF0hBrcl1rQ5WD6aA/MOBAA---Game-News-App-(Community)?type=design&node-id=1-6&mode=design&t=OsfOkYWnCzKy3aYC-0
